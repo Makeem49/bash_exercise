@@ -1,0 +1,7 @@
+john;sudo,www-data
+jane;dev
+mark;sudo,dev
+alice;www-data
+bob;dev
+emily;sudo,www-data
+michael;dev
