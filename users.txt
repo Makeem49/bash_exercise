@@ -1,7 +1,5 @@
-john;sudo,www-data
-jane;dev
-mark;sudo,dev
-alice;www-data
-bob;dev
-emily;sudo,www-data
-michael;dev
+john_doe;developers,sysadmins
+jane_smith;developers
+Mike;sysadmins,managers
+bob_builder;developers
+john;managers
